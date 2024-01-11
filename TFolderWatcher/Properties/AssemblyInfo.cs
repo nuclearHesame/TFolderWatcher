@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TFolderWatcher")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This program monitors a folder or path from the time of execution and saves its changes in the desired file.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("https://t.me/nuclearHesam")]
 [assembly: AssemblyProduct("TFolderWatcher")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCopyright("no Copyright :)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
