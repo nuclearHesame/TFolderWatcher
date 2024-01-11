@@ -5,6 +5,11 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFolderWatcher", "TFolderWatcher\TFolderWatcher.csproj", "{59121A93-D3A3-4391-8ECB-98D2A5E135CC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resourses", "Resourses", "{80BA6944-5048-4E2F-8149-B95591E72AE1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\glasses.ico = ..\..\..\glasses.ico
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
