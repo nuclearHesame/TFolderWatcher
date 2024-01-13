@@ -40,8 +40,8 @@ namespace TFolderWatcher
 
         private static void LogChange(string logMessage, string logFilePath)
         {
-            string logEntry = $"{DateTime.Now}: {logMessage}\n";
-            File.AppendAllText(logFilePath, logEntry);
+            // string logEntry = $"{DateTime.Now}: {logMessage}\n";
+            File.AppendAllText(logFilePath, logMessage);
             Console.WriteLine(logMessage);
         }
     }
